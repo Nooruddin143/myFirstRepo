@@ -2,9 +2,8 @@ package test;
 
 public class TestBranch {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	public static void testOne() {
+		System.out.println("this is for branch purpose");
 	}
 
 }
